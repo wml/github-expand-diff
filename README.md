@@ -4,5 +4,8 @@ A user/Greasemonkey script for Chrome and Firefox that allows you to expand the 
 
 ## Installation
 
-* [Download github-expand-diff.user.js](https://git.corp.yahoo.com/mridgway/github-expand-diff/raw/git.corp/github-expand-diff.user.js)
-* Drag into your Extensions list in Chrome if it doesn't ask you to install it automatically
+* clone this repo
+* navigate to chrome://extensions
+* check "Developer Mode"
+* click "Load unpacked extension..." and select the repo root
+* make sure "Enabled" is checked
